@@ -1,0 +1,4 @@
+- `vi ~/.bash_profile`
+- `alias pc='ping cleopard.com'`
+- `source /etc/profile`（`source`命令是修改文件`/etc/profile`生效）
+- `alias` 查看命令
