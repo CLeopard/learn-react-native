@@ -8,5 +8,6 @@
 ### 实现功能
 - 点击“Tap me to load the next scene”跳转到下一页
 - 点击“Tap me to go back”返回
+
 ### 效果如下[没有写Style]
 ![image](NavigationStack-Navigator.gif)
